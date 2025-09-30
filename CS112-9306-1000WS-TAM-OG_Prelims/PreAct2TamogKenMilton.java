@@ -1,3 +1,5 @@
+// THIS PROGRAM IS UNFINISHED
+
 /*
  *Author: TAM-OG, KEN MILTON, P.
  *Programming Date: 2025-08-27 , 10:00-11:30 WS
@@ -48,14 +50,6 @@ public class PreAct2TamogKenMilton {
     }
 }
 
-//Sales Summary
-//Total Purchase Amount: 60.00
-//Total Discount: 6.00
-//Amount To Be Paid: 54.00
-//Change: 46.00
-//Thank you for your purchase!
-
-
 /// Welcome to Aling Nena’s Store
 //Please input the following information:
 //Product name: eggs
@@ -63,3 +57,10 @@ public class PreAct2TamogKenMilton {
 //Unit Price: 5.00
 //Discount: 10
 //Cash Tendered: 100.00
+
+//Sales Summary
+//Total Purchase Amount: 60.00
+//Total Discount: 6.00
+//Amount To Be Paid: 54.00
+//Change: 46.00
+//Thank you for your purchase!
